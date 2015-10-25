@@ -1,0 +1,6 @@
+f:\documents\visual studio 2015\Projects\Experiment\Experiment\bin\Debug\Experiment.exe.config
+f:\documents\visual studio 2015\Projects\Experiment\Experiment\bin\Debug\Experiment.exe
+f:\documents\visual studio 2015\Projects\Experiment\Experiment\bin\Debug\Experiment.pdb
+f:\documents\visual studio 2015\Projects\Experiment\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2015\Projects\Experiment\Experiment\obj\Debug\Experiment.exe
+f:\documents\visual studio 2015\Projects\Experiment\Experiment\obj\Debug\Experiment.pdb
