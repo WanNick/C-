@@ -1,0 +1,3 @@
+Hello, This repository contains all of my C# files and project which are created by me. I started learning programming at Uni. I decided to progress and teach myself by reading books and looking at video tutorials in C#. At the moment I have covered Intro to Programming. Which taught me the basics of C# such as building the Hello World console type application using Microsoft Visual Studio. 
+
+I am now starting to look at Unit Testing in C#. This allows me to write test for the application. Writing the test to test the behavior of the code. Then building the code to make the app succeed the test. Initially the test will fail. As part of the Test Driven Development process. 
